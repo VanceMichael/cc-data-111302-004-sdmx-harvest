@@ -1,0 +1,17 @@
+{
+  "id": "industry",
+  "version": 1,
+  "dimensions": [
+    "REGION",
+    "MEASURE"
+  ],
+  "attributes": {
+    "UNIT": {
+      "level": "dataset"
+    },
+    "STATUS": {
+      "level": "observation"
+    }
+  },
+  "codes": "/codes/1"
+}
