@@ -9,9 +9,13 @@
     "UNIT": {
       "level": "dataset"
     },
+    "CONFID": {
+      "level": "series"
+    },
     "STATUS": {
       "level": "observation"
     }
   },
-  "codes": "/codes/1"
+  "codes": "/codes/1",
+  "concepts": "/concepts/1"
 }
